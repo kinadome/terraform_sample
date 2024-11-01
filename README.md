@@ -1,0 +1,2 @@
+# terraform_sample
+Terraformのための検証リポジトリ
