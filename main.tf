@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "snowflake" {
-  role = "SYSADMIN"
+  role = "TERRAFORM_KI_SYSTEM"
 }
 
 resource "snowflake_database" "db" {
